@@ -35,7 +35,7 @@ class show(models.Model):
     class Meta:
         managed = True
         db_table = "show"
-
+#執行一次
 # import json
 #
 # input_file = open('SearchShowAction.json',encoding="utf-8")
